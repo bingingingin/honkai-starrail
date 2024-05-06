@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/xlab/programming basics/build",
+  "command": "D:\\downloads\\Compressed\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c \"D:\\xlab\\programming basics\\src\\main.c\"",
+  "file": "D:/xlab/programming basics/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.obj"
+},
+{
+  "directory": "D:/xlab/programming basics/build",
+  "command": "D:\\downloads\\Compressed\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\print.obj -c \"D:\\xlab\\programming basics\\src\\print.c\"",
+  "file": "D:/xlab/programming basics/src/print.c",
+  "output": "CMakeFiles/main.dir/src/print.obj"
+},
+{
+  "directory": "D:/xlab/programming basics/build",
+  "command": "D:\\downloads\\Compressed\\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\print1.obj -c \"D:\\xlab\\programming basics\\src\\print1.c\"",
+  "file": "D:/xlab/programming basics/src/print1.c",
+  "output": "CMakeFiles/main.dir/src/print1.obj"
+}
+]

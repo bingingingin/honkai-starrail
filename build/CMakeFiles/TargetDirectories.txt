@@ -1,0 +1,3 @@
+D:/xlab/programming basics/build/CMakeFiles/main.dir
+D:/xlab/programming basics/build/CMakeFiles/edit_cache.dir
+D:/xlab/programming basics/build/CMakeFiles/rebuild_cache.dir
