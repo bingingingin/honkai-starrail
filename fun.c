@@ -22,16 +22,20 @@ int main()
 
     int sum = 0;
     for (int i = 1; i <= 10; i++)
+    {
         sum += i;
+    }
     printf("1到le的和为:%d\n", sum);
 
      int arr[3]={1,2,3};
      for (int i = 0; i < 3; i++)
+     {
          printf("数组元素：%d\n", arr[i]);
-
+     }
+     
      int a = 5, b = 3, c;
      c = a + b;
      printf("c的值:%d\n", c);
 
- return 0;
+     return 0;
  }
